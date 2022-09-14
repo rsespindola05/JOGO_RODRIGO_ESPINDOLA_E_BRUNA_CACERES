@@ -1,5 +1,4 @@
 $(function(){
-	//O conteúdo deve ficar aqui
 	});
 	var vez = 1;
 	var vencedor = "";
@@ -41,6 +40,7 @@ $(function(){
 			$(this).css("background", fig);
 			vez = (vez == 1? 2:1);  
 			verificarFimDeJogo();
+
 		}
 	});
 	
