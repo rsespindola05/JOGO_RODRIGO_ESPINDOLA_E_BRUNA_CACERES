@@ -10,7 +10,7 @@ $(function(){
 		var bgB = $("#casa"+b).css("background-image");
 		var bgC = $("#casa"+c).css("background-image");
 		if( (bgA == bgB) && (bgB == bgC) && (bgA != "none" && bgA != "")){
-			if(bgA.indexOf("1.png") >= 0)
+			if(bgA.indexOf("1.jpg") >= 0)
 				vencedor = "1";
 			else
 				vencedor = "2";
