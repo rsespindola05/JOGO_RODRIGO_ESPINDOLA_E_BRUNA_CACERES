@@ -42,7 +42,4 @@ $(function(){
 			vez = (vez == 1? 2:1);  
 			verificarFimDeJogo();
 		}
-	});
-	
-	
-	
+	});	
