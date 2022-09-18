@@ -1,9 +1,9 @@
-#simulador de jogo da velha(nova)
+# Simulador de jogo da velha
 Esse projeto é um simulador de jogo da velha 
 
 O jogo se popularizou na Inglaterra do século 19, quando mulheres se reuniam nos finais de tarde para conversar e bordar. Porém, as mais idosas, por não conseguirem mais bordar em razão de suas vistas fracas, se entretiam com o jogo. que passou a ser chamado de Noughts and Crosses (nós e cruzes, em português. Uma referência ao bordado). E como era jogado por mulheres inglesas idosas, quando o jogo veio para o Brasil, ficou conhecido como Jogo da Velha.
 
-##tecnologias utilizadas: 
+## Tecnologias utilizadas: 
 
 1.**HTML**: HTML significa HiperText Markup Language, e em português seria, Linguagem de Marcação de Hipertexto. 
 
@@ -11,7 +11,7 @@ O jogo se popularizou na Inglaterra do século 19, quando mulheres se reuniam no
 
 3.**JAVASCRIPT**: JavaScript é uma linguagem de programação que permite a você implementar itens complexos em páginas web.
 
-### funcões principais 
+### Funcões principais 
 $(function(){
 	var vez = 1;
 	var vencedor = "";
@@ -60,7 +60,7 @@ function verificarFimDeJogo(){
 ## Como rodar o código
 1.**_Simplesmente baixe o código e abra o arquivo index.html no seu navegador_**
 
-## imagens da tela 
+## Imagens da tela 
 tela 1 : em branco
 ![tela 1](/imagem/tela%201.png)
 tela 2 : jogador 1 venceu
@@ -68,7 +68,7 @@ tela 2 : jogador 1 venceu
 tela 3 ; jogador 2 venceu
 ![tela 3](/imagem/tela%203.png)
 
-#### referencias
+#### Referencias
 * HTML: [homehost] (https://www.homehost.com.br/blog/tutoriais/o-que-e-html/)
 * CSS: [hostinger] (https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css)
 * JavaScript: [developer.mozilla] (https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
